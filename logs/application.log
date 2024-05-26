@@ -1,0 +1,72 @@
+2024-05-07T11:48:20.211+05:30  INFO 8220 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Starting ProductsDescApplicationTests using Java 17.0.9 with PID 8220 (started by ASUS in C:\Users\ASUS\Documents\workspace-intellij-idea\products-desc)
+2024-05-07T11:48:20.216+05:30  INFO 8220 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-05-07T11:48:23.009+05:30  INFO 8220 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-07T11:48:23.062+05:30  INFO 8220 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 26 ms. Found 0 JPA repository interfaces.
+2024-05-07T11:48:24.236+05:30  INFO 8220 --- [products-desc] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-07T11:48:24.465+05:30  INFO 8220 --- [products-desc] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-07T11:48:24.593+05:30  INFO 8220 --- [products-desc] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-05-07T11:48:25.346+05:30  INFO 8220 --- [products-desc] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-07T11:48:25.430+05:30  INFO 8220 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-07T11:48:26.319+05:30  INFO 8220 --- [products-desc] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7185e611
+2024-05-07T11:48:26.323+05:30  INFO 8220 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-07T11:48:27.298+05:30  INFO 8220 --- [products-desc] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-07T11:48:27.308+05:30  INFO 8220 --- [products-desc] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T11:48:27.628+05:30  WARN 8220 --- [products-desc] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-07T11:48:28.632+05:30  INFO 8220 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Started ProductsDescApplicationTests in 9.287 seconds (process running for 12.589)
+2024-05-07T11:48:30.249+05:30  INFO 8220 --- [products-desc] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T11:48:30.254+05:30  INFO 8220 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-05-07T11:48:30.276+05:30  INFO 8220 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-05-07T11:59:46.562+05:30  INFO 11916 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Starting ProductsDescApplicationTests using Java 17.0.9 with PID 11916 (started by ASUS in C:\Users\ASUS\Documents\workspace-intellij-idea\products-desc)
+2024-05-07T11:59:46.566+05:30  INFO 11916 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-05-07T11:59:47.987+05:30  INFO 11916 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-07T11:59:48.022+05:30  INFO 11916 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 0 JPA repository interfaces.
+2024-05-07T11:59:48.895+05:30  INFO 11916 --- [products-desc] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-07T11:59:49.045+05:30  INFO 11916 --- [products-desc] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-07T11:59:49.121+05:30  INFO 11916 --- [products-desc] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-05-07T11:59:49.647+05:30  INFO 11916 --- [products-desc] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-07T11:59:49.699+05:30  INFO 11916 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-07T11:59:50.589+05:30  INFO 11916 --- [products-desc] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2347b7af
+2024-05-07T11:59:50.593+05:30  INFO 11916 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-07T11:59:51.479+05:30  INFO 11916 --- [products-desc] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-07T11:59:51.490+05:30  INFO 11916 --- [products-desc] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T11:59:51.755+05:30  WARN 11916 --- [products-desc] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-07T11:59:52.454+05:30  INFO 11916 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Started ProductsDescApplicationTests in 6.565 seconds (process running for 10.209)
+2024-05-07T11:59:53.726+05:30  INFO 11916 --- [products-desc] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T11:59:53.729+05:30  INFO 11916 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-05-07T11:59:53.744+05:30  INFO 11916 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-05-07T12:12:11.697+05:30  INFO 4668 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Starting ProductsDescApplicationTests using Java 17.0.9 with PID 4668 (started by ASUS in C:\Users\ASUS\Documents\workspace-intellij-idea\products-desc)
+2024-05-07T12:12:11.701+05:30  INFO 4668 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-05-07T12:12:13.184+05:30  INFO 4668 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-07T12:12:13.226+05:30  INFO 4668 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 0 JPA repository interfaces.
+2024-05-07T12:12:13.962+05:30  INFO 4668 --- [products-desc] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-07T12:12:14.623+05:30  INFO 4668 --- [products-desc] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-07T12:12:14.715+05:30  INFO 4668 --- [products-desc] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-05-07T12:12:15.587+05:30  INFO 4668 --- [products-desc] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-07T12:12:15.649+05:30  INFO 4668 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-07T12:12:16.416+05:30  INFO 4668 --- [products-desc] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@600bbf9e
+2024-05-07T12:12:16.418+05:30  INFO 4668 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-07T12:12:17.192+05:30  INFO 4668 --- [products-desc] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-07T12:12:17.201+05:30  INFO 4668 --- [products-desc] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T12:12:17.429+05:30  WARN 4668 --- [products-desc] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-07T12:12:18.115+05:30  INFO 4668 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Started ProductsDescApplicationTests in 7.208 seconds (process running for 10.455)
+2024-05-07T12:12:19.292+05:30  INFO 4668 --- [products-desc] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T12:12:19.296+05:30  INFO 4668 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-05-07T12:12:19.320+05:30  INFO 4668 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-05-07T14:20:04.706+05:30  INFO 7392 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Starting ProductsDescApplicationTests using Java 17.0.9 with PID 7392 (started by ASUS in C:\Users\ASUS\Documents\workspace-intellij-idea\products-desc)
+2024-05-07T14:20:04.711+05:30  INFO 7392 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-05-07T14:20:07.304+05:30  INFO 7392 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-07T14:20:07.351+05:30  INFO 7392 --- [products-desc] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27 ms. Found 0 JPA repository interfaces.
+2024-05-07T14:20:11.137+05:30  INFO 7392 --- [products-desc] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-07T14:20:11.417+05:30  INFO 7392 --- [products-desc] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-07T14:20:11.563+05:30  INFO 7392 --- [products-desc] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-05-07T14:20:13.014+05:30  INFO 7392 --- [products-desc] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-07T14:20:13.140+05:30  INFO 7392 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-07T14:20:14.311+05:30  INFO 7392 --- [products-desc] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@559d19c
+2024-05-07T14:20:14.319+05:30  INFO 7392 --- [products-desc] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-07T14:20:15.709+05:30  INFO 7392 --- [products-desc] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-07T14:20:15.724+05:30  INFO 7392 --- [products-desc] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T14:20:16.218+05:30  WARN 7392 --- [products-desc] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-07T14:20:17.449+05:30  INFO 7392 --- [products-desc] [main] c.s.a.ProductsDescApplicationTests       : Started ProductsDescApplicationTests in 13.548 seconds (process running for 20.517)
+2024-05-07T14:20:20.388+05:30  INFO 7392 --- [products-desc] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-07T14:20:20.394+05:30  INFO 7392 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-05-07T14:20:20.418+05:30  INFO 7392 --- [products-desc] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
